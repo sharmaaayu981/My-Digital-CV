@@ -1,4 +1,11 @@
 # My-Digital-CV
+<img src ="Snapshots/01.jpg" width= "19%" height ="50%"> <img src ="Snapshots/02.jpg" width= "19%" height ="50%"> <img src ="Snapshots/03.jpg" width= "19%" height ="50%"> <img src ="Snapshots/04.jpg" width= "19%" height ="50%">
+<img src ="Snapshots/05.jpg" width= "19%" height ="50%">
+
+
+
+
+
 ## My DIgital CV
 My Digital CV is Interactive Virtual Resume Template which provides basic functionality to develop your own Digital Resume/CV, Which works on Google Assistant and accessible on various supported platforms. You can develop your interactive Digital CV within 20-30 Minutes by using this Dialogflow template. 
 ### Features 
