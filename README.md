@@ -1,6 +1,6 @@
 # My-Digital-CV
-<img src ="Snapshots/01.jpg" width= "19%" height ="50%"> <img src ="Snapshots/02.jpg" width= "19%" height ="50%"> <img src ="Snapshots/03.jpg" width= "19%" height ="50%"> <img src ="Snapshots/04.jpg" width= "19%" height ="50%">
-<img src ="Snapshots/05.jpg" width= "19%" height ="50%">
+<img src ="Snapshots/01.png" width= "19%" height ="50%"> <img src ="Snapshots/02.png" width= "19%" height ="50%"> <img src ="Snapshots/03.png" width= "19%" height ="50%"> <img src ="Snapshots/04.png" width= "19%" height ="50%">
+<img src ="Snapshots/05.png" width= "19%" height ="50%">
 
 
 
