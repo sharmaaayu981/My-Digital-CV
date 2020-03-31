@@ -38,7 +38,7 @@ Please see the Tutorial/Setup [Document Tutorials](https://github.com/sharmaaayu
 
 ### Contact Us
 * [LinkedIn](https://in.linkedin.com/in/sharmaayush981) 
-* Email: test1email320@gmail.com
+* [Email](test1email320@gmail.com)
 * [Twitter](https://twitter.com/i_ayush_sharma)
 
 ### MIT LIcense
