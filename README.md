@@ -18,6 +18,9 @@ Easy to use template to make Digital resume which works on Google Assistant.
 2. Setup Google Assistant Setup.
 3. Deploy the project for Review.
 
+### Bonus Point
+- Video and [Document Tutorials](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Document%20Tutorials) are available, follow the document step-by-step and make your digital CV better.
+
 ### Contributing
 Please raise an issue of the requirement so that a discussion can take before any code is written, even if you intend to raise a pull request.
 
