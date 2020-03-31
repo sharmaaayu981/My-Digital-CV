@@ -5,13 +5,18 @@ My Digital CV is Intractive Virtual Resume Template which provide basic functona
 Easy to use template to make Digital resume which works on Google Assistant.
 
 
-### Developing Yout Digital Cv
+### Developing Your Digital CV
 - Sign-in  with Dialogflow and import Your-Profile.zip Template.
 - Set Up  Dialogflow Agent
 - Link Dialogflow Agent with Google Assistant.
 - Download the [Privacy Policy Document](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Privacy%20Policy) and change it according to your Assistant and upload it on Google Drive and make it public.
 - Set up Google Assistant Project
 - Deploy Project for Review
+
+### Key Points
+1. Setup your DialogFlow Agent by using template.
+2. Setup Google Assistant Setup.
+3. Deploy the project for Review.
 
 ### Contributing
 Please raise an issue of the requirement so that a discussion can take before any code is written, even if you intend to raise a pull request.
