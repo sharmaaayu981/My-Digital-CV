@@ -20,6 +20,9 @@ Easy to use the [template](https://github.com/sharmaaayu981/My-Digital-CV/tree/m
 
 ### Bonus Point
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLnBXWQHTJNuE3_fWm37CGakRIMtJfMRvS) and [Document Tutorials](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Document%20Tutorials) are available, follow the document step-by-step and make your digital CV better.
+- Please see Sample app for full example. [Sample](https://assistant.google.com/services/a/uid/000000ec94ce6de1?hl=en)
+
+
 
 ### Contributing
 Please raise an issue of the requirement so that a discussion can take before any code is written, even if you intend to raise a pull request.
