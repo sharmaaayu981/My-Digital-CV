@@ -1,9 +1,4 @@
 # My-Digital-CV
-![](Snapshots/01.jpg) ![](Snapshots/02.jpg) ![](Snapshots/03.jpg) ![](Snapshots/04.jpg) ![](Snapshots/05.jpg)
-
-
-
-
 ## My DIgital CV
 My Digital CV is Interactive Virtual Resume Template which provides basic functionality to develop your own Digital Resume/CV, Which works on Google Assistant and accessible on various supported platforms. You can develop your interactive Digital CV within 20-30 Minutes by using this Dialogflow template. 
 ### Features 
