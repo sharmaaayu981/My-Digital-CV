@@ -19,12 +19,12 @@ Easy to use the [template](https://github.com/sharmaaayu981/My-Digital-CV/tree/m
 3. Deploy the project for Review.
 
 ### Bonus Point
-- Video and [Document Tutorials](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Document%20Tutorials) are available, follow the document step-by-step and make your digital CV better.
+- [Video Tutorials] (https://www.youtube.com/playlist?list=PLnBXWQHTJNuE3_fWm37CGakRIMtJfMRvS) and [Document Tutorials](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Document%20Tutorials) are available, follow the document step-by-step and make your digital CV better.
 
 ### Contributing
 Please raise an issue of the requirement so that a discussion can take before any code is written, even if you intend to raise a pull request.
 
-Please see the Tutorial/Setup [Document Tutorials](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Document%20Tutorials) or Video for full references.
+Please see the Tutorial/Setup [Document Tutorials](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Document%20Tutorials) or [Video Tutorials](https://www.youtube.com/playlist?list=PLnBXWQHTJNuE3_fWm37CGakRIMtJfMRvS) for full references.
 
 ### MIT LIcense
 Copyright (c) [2020] [Ayush,Kamal]
