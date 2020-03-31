@@ -26,6 +26,11 @@ Please raise an issue of the requirement so that a discussion can take before an
 
 Please see the Tutorial/Setup [Document Tutorials](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Document%20Tutorials) or [Video Tutorials](https://www.youtube.com/playlist?list=PLnBXWQHTJNuE3_fWm37CGakRIMtJfMRvS) for full references.
 
+### Contact Us
+* LinkedIn : https://in.linkedin.com/in/sharmaayush981 
+* Email: test1email320@gmail.com
+* Twitter: https://twitter.com/i_ayush_sharma
+
 ### MIT LIcense
 Copyright (c) [2020] [Ayush,Kamal]
 
