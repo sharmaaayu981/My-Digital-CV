@@ -24,7 +24,7 @@ Easy to use the [template](https://github.com/sharmaaayu981/My-Digital-CV/tree/m
 ### Contributing
 Please raise an issue of the requirement so that a discussion can take before any code is written, even if you intend to raise a pull request.
 
-Please see the Tutorial/Setup Document or Video for full references.
+Please see the Tutorial/Setup [Document Tutorials](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Document%20Tutorials) or Video for full references.
 
 ### MIT LIcense
 Copyright (c) [2020] [Ayush,Kamal]
