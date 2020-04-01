@@ -32,7 +32,7 @@ Easy to use the [template](https://github.com/sharmaaayu981/My-Digital-CV/tree/m
 
 
 ### Contributing
-Please raise an issue of the requirement or problem in deployig the project so that a discussion can take before any step, even if you intend to raise a pull request.
+Please raise an issue of the requirement or problem in deploy the project so that a discussion can take before any step, even if you intend to raise a pull request.
 
 Please see the Tutorial/Setup [Document Tutorials](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Document%20Tutorials) or [Video Tutorials](https://www.youtube.com/playlist?list=PLnBXWQHTJNuE3_fWm37CGakRIMtJfMRvS) for full references.
 
