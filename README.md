@@ -19,6 +19,7 @@ Easy to use the [template](https://github.com/sharmaaayu981/My-Digital-CV/tree/m
 - Download the [Privacy Policy Document](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Privacy%20Policy) and change it according to your Assistant and upload it on Google Drive and make it public.
 - Set up Google Assistant Project
 - Deploy Project for Review
+- Test on your Device also ( Google Assistant , by using same Email on the Google Assistant)
 
 ### Key Points
 1. Setup your DialogFlow Agent by using the [Template](https://github.com/sharmaaayu981/My-Digital-CV/tree/master/Template).
