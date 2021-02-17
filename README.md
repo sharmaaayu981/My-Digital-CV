@@ -43,6 +43,7 @@ Please see the Tutorial/Setup [Document Tutorials](https://github.com/sharmaaayu
 * [Email](test1email320@gmail.com)
 * [Twitter](https://twitter.com/i_ayush_sharma)
 * [Website](https://iayush.web.app)
+* [Email](mailto:aayusharma981@gmail.com)
 ### MIT LIcense
 Copyright (c) 2020 Ayush Sharma
 
